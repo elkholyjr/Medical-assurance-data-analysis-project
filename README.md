@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) Project
+# Exploratory Medical assurance data Project
 
 This project provides a hands-on approach to understanding and applying graphical techniques in **Exploratory Data Analysis (EDA)** using Python. It walks through various steps of examining and visualizing a dataset to uncover patterns, spot anomalies, test hypotheses, and check assumptions.
 
