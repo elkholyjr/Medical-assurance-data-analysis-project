@@ -2,7 +2,7 @@
 
 This project provides a hands-on approach to understanding and applying graphical techniques in **Exploratory Data Analysis (EDA)** using Python. It walks through various steps of examining and visualizing a dataset to uncover patterns, spot anomalies, test hypotheses, and check assumptions.
 
-## 📋 Project Tasks
+## Project Tasks
 
 The EDA process is broken down into 5 main tasks:
 
@@ -30,7 +30,7 @@ In this final step, the analysis focuses on uncovering trends, relationships, an
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset used in this project is `insurance-data.csv`, which contains information on:
 - Age
@@ -45,7 +45,7 @@ It includes **1338 instances** and **7 features**, with data types ranging acros
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Jupyter Notebook**
@@ -56,7 +56,7 @@ It includes **1338 instances** and **7 features**, with data types ranging acros
 
 ---
 
-## 📈 Results & Insights
+## Results & Insights
 
 The analysis highlighted key correlations, such as:
 - Strong impact of smoking on insurance charges
@@ -65,7 +65,7 @@ The analysis highlighted key correlations, such as:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this notebook:
 
@@ -73,6 +73,3 @@ To run this notebook:
 2. Ensure you have the required libraries installed
 3. Place `insurance-data.csv` in the working directory
 4. Run the `EDAproject.ipynb` notebook
-
-```bash
-pip install pandas numpy matplotlib seaborn statsmodels scipy scikit-learn
